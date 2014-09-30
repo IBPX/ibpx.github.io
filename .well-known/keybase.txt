@@ -1,0 +1,78 @@
+==================================================================
+https://keybase.io/itsbobberson
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://itsbobberson.github.io
+  * I am itsbobberson (https://keybase.io/itsbobberson) on keybase.
+  * I have a public key with fingerprint C86B CB1C 4614 977B 8B36  1D71 8F47 C2B
+9 6C6C 672F
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.2"
+        },
+        "key": {
+            "fingerprint": "c86bcb1c4614977b8b361d718f47c2b96c6c672f",
+            "host": "keybase.io",
+            "key_id": "8F47C2B96C6C672F",
+            "uid": "2f2476bdb8b9561edf1574c726ba9500",
+            "username": "itsbobberson"
+        },
+        "merkle_root": {
+            "ctime": 1412091799,
+            "hash": "b26c5048df8f85359e88db6ed12496180e92fb905ffeaeae2d43bb9bb27
+5af96c87bd41c4d551fef74218b6dc97060638cafcfda49a6f48e6cf440c1bc26602a",
+            "seqno": 67387
+        },
+        "service": {
+            "hostname": "itsbobberson.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1412091879,
+    "expire_in": 157680000,
+    "prev": "a7d0a76ab2d2e9bb5836bed14e18a3560dd123d4886172052d966a3d63c38991",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v2
+
+owFtUm2IFVUYvnctrSWh2CI0URlaRFmuc86cOR+bi7RXdrNyY6EPSvA25+veybsz
+15nZL2XrR/vDyktLyO7ah0aSSbuE7rqFSP2IsAsSkQoRKgQptUsmt7aiH2Znto0S
+Ou+f8/G8z3me55yR5UsyDdlXOz89WS4XN2bPzPLM4xu+vLrH4qEctFr3WKLsqyBJ
+Z4HXo6xWa6ca5F6scn64Ngilyj0Xr13EtFh9Kor9MDAoO0dy0BpqSeFps/aDoooq
+kZ9yWYJiLjgQCAPECOGUOxhIAqhGREDOsDBFoDaUpTBObrrVWuAs+NLs0g5E8rCd
+4bwpAjvMWe/CAdQQEcylYWYuBkpq4BIkCMTcY65tp8BYRYuW/CTmIedGvNFuNPeo
+aGdZFaIwXDAuEj+FAQSgzQBhzKjy4pJp5BAL10ZUaqqp67hMUSo5VhJAxDCgtmJQ
+c2a7WivPFJTI4ZxxDonraWOTEi6RyUG6LtBKEwQB5VgKRmxsY4cKTwstPcQ8rBFV
+WGiEbAG4gBjb0DM2YrUrCK1WTBxKhtJl1OcLlcpOk/sfg7min5R6+d9JVqIwCUVY
+NphSklTiVuuUIUkGK2lXv+KFRb4C9wNpnvC/bwwM8uZoKDHRqIGKH6mCnyJcgqlt
+RnqR6jOUHpG2R7DHoYTK5OBSB3MTF1KAeo6LbWmicySiFAMCbRdKhrHnSOwIhzIG
+/jWMjEyvaChjvxh4SW+krKGXsqtuyWQbMktvbUg/cabx9jv/+dnd7y27sbXt9S86
+a3NHV8x0XNhRn7ijsbrueA3d1jCwavzJztHO4RfnH+56NnPPmpl3r+x90/q+9s6P
+Y/W2c19vm2pqmZyorRyZHj9Tba9WH/l8WXf1YvAZeGvwO7X/I3XxcNfqsbdbPv6j
+jH5t3pS8dv3waH3bQN+apbXffjg4t2t+bLTt+aNHjl+v7j1xYPjuUnL+6f5f1l86
+sXHm3jk91Z9fIe6vP7hvqueF96cf+3D5tWOzhfYts6+sbtx+X3fW+WZkuPLG7qdO
+ny59cnnzlvpXH9R2HBjfhA4+cejPzetOkqunHtqQD+cfeObayt0/H2puTo6cnXz5
+966fhvM3Jr491tQ9PfTo1v3bm9bfNRkXp/b9BQ==
+=SIC5
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/itsbobberson
+
+==================================================================
