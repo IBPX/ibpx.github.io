@@ -1,0 +1,17 @@
+body {
+	background-color: black;
+	color: white;
+	margin-left: 1em;
+}
+
+a {
+	color: grey;
+	text-decoration: none;
+}
+a:hover:before {
+	content: "> ";
+}
+a:before {
+	content: "  ";
+	text-decoration: none;
+}
