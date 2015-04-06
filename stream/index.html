@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+	<!--
+		TwitchViewer by IBPX
+		https://github.com/IBPX/TwitchViewer
+		
+		This is Public Domain under the CC0 license.
+		http://creativecommons.org/publicdomain/zero/1.0/
+
+		A simple HTML page to show a Twitch stream's video and chat,
+		without the regular clutter.
+	-->
+	<head>
+		<title>TwitchViewer</title>
+		<style>
+			#chat {
+				width: 320px;
+				height: 100%;
+				position: fixed;
+				right: 0;
+				top: 0;
+			}
+			#video {
+				width: calc(100% - 320px);
+				height: 100%;
+				position: fixed;
+				left: 0;
+				top: 0;
+			}
+		</style>
+		<script type="text/javascript">
+			var Username = "IBPX"; // Change this to the username you want to show.
+		</script>
+	</head>
+	<body>
+		<script type="text/javascript">
+			document.write('<embed id="video" src="http://www.twitch.tv/' + Username + '/embed"/><embed id="chat" src="http://www.twitch.tv/' + Username + '/chat"/>');
+		</script>
+	</body>
+</html>
